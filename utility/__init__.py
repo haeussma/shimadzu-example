@@ -1,1 +1,1 @@
-from .plotting import plot_measurments
+from .plotting import plot_measurements
